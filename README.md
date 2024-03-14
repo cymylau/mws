@@ -1,6 +1,9 @@
 A very crappy, but small web server. This doesn't support TLS / SSL, so only HTTP not HTTPS. It's ideal for small (tiny) projects. 
 Currently; its less than 5MB in size plus your static content. 
 
+# Why?
+There's a lot of great ways to host static content for free - github pages I think doesn't get enough reconition, not to mention the endless cloud storage solutions that allow for static http hosting. Sometimes, you have an itch to learn, to try something yourself. This is why I created this. If it helps someone else then great. I wouldn't recommend anyone uses this for anything important, but its a nice reference / learning curve. 
+
 # Building Locally.
 
 Before doing anything, quickly check this repo. There should only be a few files and they're easy to read. Make sure you know what this is doing. 
