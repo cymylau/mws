@@ -1,5 +1,5 @@
 A very crappy, but small web server. This doesn't support TLS / SSL, so only HTTP not HTTPS. It's ideal for small (tiny) projects. 
-Currently; its less than 5MB in size. 
+Currently; its less than 5MB in size plus your static content. 
 
 # Building Locally.
 
